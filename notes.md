@@ -34,3 +34,7 @@ https://www.waikato.ac.nz/__data/assets/pdf_file/0007/394945/chapter25.pdf
     This pilot project took a year to complete, and reveals great potential for the use of Mukurtu software to connect flax roots communities with taonga tuku iho in institutional collections. There is also as-yet untested potential for institutions to use the database as a tool of repatriation, a means of ‘handing back’ traditional knowledge to source communities in a safe and managed fashion. 
     The colonial collecting project was a destructive mechanism by which Indigenous cultural materials were removed from communities and detached from local knowledge systems. Much of this material remains today not only physically distant from local communities, but also lodged within a legal system that steadfastly refuses local claims to stewardship of these materials  ...incorporating Indigenous knowledge systems into library and archive practices will not just enhance relationships and create access to records, but more importantly, it has the potential to decolonize archival practices and modes of access (Christen, 2015, p. 2-3).
     
+Using Social Media as a Source for Understanding Public Perceptions of Archaeology: Research Challenges and Methodological Pitfalls
+https://journal.caa-international.org/articles/10.5334/jcaa.39/
+
+
