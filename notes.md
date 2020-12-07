@@ -11,7 +11,14 @@ podcast
         -small datasets organized into large useful whole
         -software has to be constantly updated
         -context --> very important, but data often doesnt have much of it
-        
+
+hieroglyphics workbench
+
+    attempt 1 --> the image I used I think was too low resolution so it wasnt able to recognize any of the glyphs
+    attempt 2 --> uploaded a different image and spent a long while with the drawing tool but I think I made too many drawing lines or something because it ended up freezing up my computer
+    attempt 3 --> used the same image and made sure to draw minimally, got to the next stage and the site wasnt really able to correctly identify any of the glyphs so I had to pick them all out, I found a few of them werent in the list as far as I could tell, then I got to the translation stage but I couldn't figure out how it works
+    overall, interesting tool idea, but I think since hieroglyphics can be written in so many different styles I think its hard to do properly, the ones I uploaded didn't really match the ones on the site and furthermore I don't think the tool is much useful without prior knowledge of hieroglyphics at the transliteration stage because I couldn't figure it out
+
 The Origins of Doha Project
 http://eprints.whiterose.ac.uk/109405/1/eBook_CHNT20_Morgan_etal_2015.pdf
 
